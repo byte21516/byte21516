@@ -1,15 +1,11 @@
-<h3 align="center">Trainee as an IT specialist for system integration</h3>
-
-- Currently working on my apprenticeship & many projects
+<h3>byte21516</h3>
 
 - Linux User
-
-- Interested in Selfhosting / Networking
-
+- Selfhosting
 - Germany
 
 <h3 align="left">My Website</h3>
-🌎 https://bytesofprogress.net/
+🌎 https://byte21516.xyz/
 
 <h3 align="left">Languages and Tools</h3>
 
